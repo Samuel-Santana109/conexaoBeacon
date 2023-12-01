@@ -81,7 +81,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.conexaobeacon"
+    namespace 'com.samuel_santana.conexaoBeacon'
     defaultConfig {
         applicationId 'com.samuel_santana.conexaoBeacon'
         minSdkVersion rootProject.ext.minSdkVersion
